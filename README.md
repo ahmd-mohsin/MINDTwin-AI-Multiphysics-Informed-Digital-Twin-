@@ -18,7 +18,7 @@ To get started with downloading this repository, follow the steps below:
 
 Clone the repository to your local machine using the following command:
 
-    https://github.com/ahmd-mohsin/MINDTwin-AI-Multiphysics-Informed-Digital-Twin.git
+    https://github.com/ahmd-mohsin/MINDTwin-AI-Multiphysics-Informed-Digital-Twin-.git
 
 ## Project Structure
 The project is structured as follows:
